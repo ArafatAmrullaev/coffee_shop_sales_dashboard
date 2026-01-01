@@ -22,7 +22,7 @@ The dashboard helps understand **customer behavior, sales trends, and revenue pe
 ---
 
 ## 📂 Dataset
-**Source:** Kaggle – Coffee Shop Sales (Cape Town)
+**Source:** https://www.kaggle.com/datasets/reignrichard/coffee-store-sales
 
 This dataset captures **daily sales transactions** from a coffee shop in Cape Town over **March 2024**.
 It includes transaction timestamps, payment method, coffee product details, and revenue amounts.
