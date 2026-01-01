@@ -62,9 +62,9 @@ These insights help the business:
 ---
 
 ## 🛠️ Tools & Techniques
+- Excel
+- Pivot tables
 - Power BI
-- Data Cleaning & Transformation
-- Data Modeling
 - DAX
 - Dashboard Design
 
