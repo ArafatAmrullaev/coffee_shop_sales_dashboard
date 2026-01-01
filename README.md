@@ -16,9 +16,8 @@ The dashboard helps understand **customer behavior, sales trends, and revenue pe
 ---
 
 ## 📊 Dashboard Preview
-(Add your screenshot here)
 
-`/images/dashboard_preview.png`
+![Coffee Shop Dashboard](images/dashboard_preview.png)
 
 ---
 
